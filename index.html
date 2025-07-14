@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FOXHOLE API JS CLIENT</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<style>
+.map{height:50px;position:relative;}
+.column{display: flex;flex-direction: column;justify-content: center;flex-grow: 1;}
+#world{display:flex;background: url('worldmap_warapi.webp') no-repeat;background-size: 100% 100%;text-align:center;}
+.control{display:flex;opacity:0.9;width:80%;margin:0 auto;justify-content: space-between;}
+.control div{height:7px;}
+</style>
+<script>
+	//Foxhole API http://foxholestats.com https://github.com/clapfoot/warapi/
+	var loopTime = 30;//delay between requests inseconds
+	var worldWidth = '450px';//adjust display width
+	var apiUrl = 'https://war-service-live.foxholeservices.com/api';//shard1 api see warapi readme for other shard urls
+	//var apiUrl = "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=505460";//SteamDB api for Live Player Count
+
+	$(document).ready(function () {
+		
+		var worldTotals,ping;
+		var ping = '+';
+	
+		function getData(){
+			$.get(apiUrl+'/worldconquest/maps', function(maps){//get list of maps
+			
+				worldTotals = {'colonialCasualties':0,'wardenCasualties':0, 'dayOfWar': 0};
+				
+				$.each(maps, function(i, mapName){//for each map
+
+					$.get(apiUrl+'/worldconquest/warReport/'+mapName, function(report){//get war reports
+						//console.log(report);//output to look at structure
+						worldTotals.colonialCasualties += report.colonialCasualties;
+						worldTotals.wardenCasualties += report.wardenCasualties;
+						worldTotals.dayOfWar = report.dayOfWar;
+						if(i == maps.length-1)outputTotals();//run after last result success
+					});		
+					
+					$.get(apiUrl+'/worldconquest/maps/'+mapName+'/dynamic/public', function(report){//get dynamic data
+						//console.log(report);//output to look at structure
+						var mapSummary = {'mapName': mapName, 'victory':'', 'wardenTowns':0, 'colonialTowns':0};
+						
+						$.each(report.mapItems, function(i, item){//for each map item							
+							
+							//do thing in here like sum up icon types for each team
+							if(item.flags & 0x01)mapSummary.victory = item.teamId;
+							if(item.iconType == 56 || item.iconType == 57 || item.iconType == 58 || item.iconType == 45){
+								if(item.teamId == 'WARDENS')mapSummary.wardenTowns++;
+								if(item.teamId == 'COLONIALS')mapSummary.colonialTowns++;
+							}
+							
+						});
+						outputMap(mapSummary);//print out result for map		
+										
+					}).always(function(){						
+						if(i == maps.length-1)setTimeout(getData, loopTime*1000);//set timer to run loop again after last map
+						
+					});		
+				});
+			}).always(function(){
+				ping = (ping == '+' ? '-':'+');//simple thing to show timer still running
+			});
+		}
+		getData();//start loop
+		
+		function outputTotals(){
+		
+			$('#totals').html('Warden Casulaties: '+worldTotals.wardenCasualties + ' ' + 'Colonial Casualties:' +worldTotals.colonialCasualties + ' Day: '+worldTotals.dayOfWar +' '+ ping);	
+			
+		};
+		function outputMap(mapSummary){
+			
+			var mapHtml;
+			if(mapSummary.victory == '')mapHtml = '&nbsp;';
+			if(mapSummary.victory == 'NONE')mapHtml = 'N';
+			if(mapSummary.victory == 'WARDENS')mapHtml = 'W';
+			if(mapSummary.victory == 'COLONIALS')mapHtml = 'C';
+			
+			var totalTowns = mapSummary.wardenTowns + mapSummary.colonialTowns;
+			var wardenTownPercentage = Math.round(mapSummary.wardenTowns / totalTowns * 100);
+			var colonialTownPercentage = Math.round(mapSummary.colonialTowns / totalTowns * 100);
+			
+			mapHtml += '<div class="control"><div style="background:blue;width:'+wardenTownPercentage+'%"></div><div class="control" style="background:green;width:'+colonialTownPercentage+'%"></div></div>';//town overlay
+			
+			$('#'+mapSummary.mapName).html(mapHtml);
+		}
+
+	});
+</script>
+</head>
+<body>
+<div id="totals"></div>
+<br />
+<div id="world">
+	<div class="column">
+		<div class="map" id="OarbreakerHex"></div>
+		<div class="map" id="FishermansRowHex"></div>
+		<div class="map" id="StemaLandingHex"></div>
+	</div>
+	<div class="column">
+		<div class="map" id="NevishLineHex"></div>
+		<div class="map" id="FarranacCoastHex"></div>
+		<div class="map" id="WestgateHex"></div>
+		<div class="map" id="OriginHex"></div>
+	</div>
+	<div class="column">
+		<div class="map" id="CallumsCapeHex"></div>
+		<div class="map" id="StonecradleHex"></div>
+		<div class="map" id="KingsCageHex"></div>
+		<div class="map" id="SableportHex"></div>
+		<div class="map" id="AshFieldsHex"></div>
+	</div>
+	<div class="column">
+		<div class="map" id="SpeakingWoodsHex"></div>
+		<div class="map" id="MooringCountyHex"></div>
+		<div class="map" id="LinnMercyHex"></div>
+		<div class="map" id="LochMorHex"></div>
+		<div class="map" id="HeartlandsHex"></div>
+		<div class="map" id="RedRiverHex"></div>
+	</div>
+	<div class="column">
+		<div class="map" id="BasinSionnachHex"></div>
+		<div class="map" id="ReachingTrailHex"></div>
+		<div class="map" id="CallahansPassageHex"></div>
+		<div class="map" id="DeadLandsHex"></div>
+		<div class="map" id="UmbralWildwoodHex"></div>
+		<div class="map" id="GreatMarchHex"></div>
+		<div class="map" id="KalokaiHex"></div>
+	</div>
+	<div class="column">
+		<div class="map" id="HowlCountyHex"></div>
+		<div class="map" id="ViperPitHex"></div>
+		<div class="map" id="MarbanHollow"></div>
+		<div class="map" id="DrownedValeHex"></div>
+		<div class="map" id="ShackledChasmHex"></div>
+		<div class="map" id="AcrithiaHex"></div>
+	</div>
+	<div class="column">
+		<div class="map" id="ClansheadValleyHex"></div>
+		<div class="map" id="WeatheredExpanseHex"></div>
+		<div class="map" id="ClahstraHex"></div>
+		<div class="map" id="AllodsBightHex"></div>
+		<div class="map" id="TerminusHex"></div>
+	</div>
+	<div class="column">
+		<div class="map" id="MorgensCrossingHex"></div>
+		<div class="map" id="StlicanShelfHex"></div>
+		<div class="map" id="EndlessShoreHex"></div>
+		<div class="map" id="ReaversPassHex"></div>
+	</div>
+	<div class="column">
+		<div class="map" id="GodcroftsHex"></div>
+		<div class="map" id="TempestIslandHex"></div>
+		<div class="map" id="TheFingersHex"></div>
+	</div>
+</div>
+</body>
+</html>
+<script>
+	$('#world').css('width',worldWidth);
+</script>
