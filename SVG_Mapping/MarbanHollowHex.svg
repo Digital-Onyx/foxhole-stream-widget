@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="MarbanHollow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
+  <polygon points="87.4 3.9 52.5 3.9 57.7 27.4 81.7 36.6 103.6 32 87.4 3.9" style="fill: #721446; opacity: .5;"/>
+  <polygon points="81.7 36.6 74.3 56.6 76.7 67.5 101.4 76.8 115.4 52.4 103.6 32 81.7 36.6" style="fill: #95872a; opacity: .5;"/>
+  <polygon points="57.7 27.4 53.5 39.4 74.3 56.6 81.7 36.6 57.7 27.4" style="fill: #bf1e5a; opacity: .5;"/>
+  <polygon points="53.5 39.4 40.9 53 63.4 71.9 76.7 67.5 74.3 56.6 53.5 39.4" style="fill: #935267; opacity: .5;"/>
+  <polygon points="57.7 27.4 52.5 3.9 31.4 3.9 3.7 52.1 8.9 61.9 40.9 53 53.5 39.4 57.7 27.4" style="fill: #3dbeb7; opacity: .5;"/>
+  <polygon points="8.9 61.9 31.4 100.9 47.3 100.9 63.4 71.9 40.9 53 8.9 61.9" style="fill: #00756a; opacity: .5;"/>
+  <polygon points="63.4 71.9 76.7 67.5 101.4 76.8 87.4 100.9 47.3 100.9 63.4 71.9" style="fill: #73bf44; opacity: .5;"/>
+</svg>

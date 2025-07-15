@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="StlicanShelf" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
+  <polygon points="31.5 3.9 68 3.9 58.7 36.6 40.4 38.5 18.9 25.8 31.5 3.9" style="fill: #3dbeb7; opacity: .5;"/>
+  <polygon points="3.6 52.4 18.9 25.8 40.4 38.5 40.4 52.6 9 61.9 3.6 52.4" style="fill: #bf1e5a; opacity: .5;"/>
+  <polygon points="40.4 52.6 49 59.3 45.8 65.1 16.7 75.2 9 61.9 40.4 52.6" style="fill: #935267; opacity: .5;"/>
+  <polygon points="45.8 65.1 52.2 88.4 48.5 100.9 31.5 100.9 16.7 75.2 45.8 65.1" style="fill: #95872a; opacity: .5;"/>
+  <polygon points="45.8 65.1 49 59.3 55.6 57.7 65.8 70.4 52.2 88.4 45.8 65.1" style="fill: #3a52a4; opacity: .5;"/>
+  <polygon points="58.7 36.6 62.1 45.3 55.6 57.7 49 59.3 40.4 52.6 40.4 38.5 58.7 36.6" style="fill: #b0d361; opacity: .5;"/>
+  <polygon points="55.6 57.7 62.1 45.3 112.3 57.9 105.2 70.2 65.8 70.4 55.6 57.7" style="fill: #b8e4f4; opacity: .5;"/>
+  <polygon points="58.7 36.6 62.1 45.3 112.3 57.9 115.5 52.4 87.5 3.9 68 3.9 58.7 36.6" style="fill: #009b51; opacity: .5;"/>
+  <polygon points="65.8 70.4 105.2 70.2 87.5 100.9 48.5 100.9 52.2 88.4 65.8 70.4" style="fill: #d95426; opacity: .5;"/>
+</svg>

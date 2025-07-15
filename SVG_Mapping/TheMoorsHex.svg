@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="TheMoors" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
+  <polygon points="87.5 3.9 55 3.9 65.9 27 92 11.7 87.5 3.9" style="fill: #662673; opacity: .5;"/>
+  <polygon points="92 11.7 110.5 43.8 73.1 44.4 64.5 37.1 65.9 27 92 11.7" style="fill: #3dbeb7; opacity: .5;"/>
+  <polygon points="110.5 43.8 115.5 52.4 109.7 62.5 73.5 70.8 65.9 64.9 65.1 63.1 73.1 44.4 110.5 43.8" style="fill: #d41d52; opacity: .5;"/>
+  <polygon points="65.9 64.9 56 77.8 65.9 100.9 76.3 100.9 73.8 70.7 73.5 70.8 65.9 64.9" style="fill: #71c492; opacity: .5;"/>
+  <polygon points="109.7 62.5 87.5 100.9 76.3 100.9 73.8 70.7 109.7 62.5" style="fill: #0c713a; opacity: .5;"/>
+  <polygon points="56 77.8 47.6 76.3 26.9 92.9 31.5 100.9 65.9 100.9 56 77.8" style="fill: #935267; opacity: .5;"/>
+  <polygon points="47.6 76.3 26.9 92.9 8.1 60.3 41.9 59.9 47.6 76.3" style="fill: #95872a; opacity: .5;"/>
+  <polygon points="41.9 59.9 46.4 56.7 65.1 63.1 65.9 64.9 56 77.8 47.6 76.3 41.9 59.9" style="fill: #2a338e; opacity: .5;"/>
+  <polygon points="46.4 56.7 50.3 38.8 64.5 37.1 73.1 44.4 65.1 63.1 46.4 56.7" style="fill: #74c58f; opacity: .5;"/>
+  <polygon points="50.3 38.8 9 43 3.6 52.4 8.1 60.3 41.9 59.9 46.4 56.7 50.3 38.8" style="fill: #eaa6ca; opacity: .5;"/>
+  <polygon points="9 43 50.3 38.8 33.3 3.9 31.5 3.9 9 43" style="fill: #f5f6c9; opacity: .5;"/>
+  <polygon points="33.3 3.9 55 3.9 65.9 27 64.5 37.1 50.3 38.8 33.3 3.9" style="fill: #b6dec5; opacity: .5;"/>
+</svg>

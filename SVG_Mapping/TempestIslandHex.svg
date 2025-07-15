@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="TempestIsland" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
+  <polygon points="31.5 3.9 62.9 3.9 70 41.2 60.5 48.2 28.8 8.7 31.5 3.9" style="fill: #bf1e5a; opacity: .5;"/>
+  <polygon points="28.8 8.7 27.6 10.8 43 62.9 48.8 64.1 59.3 57.9 60.5 48.2 28.8 8.7" style="fill: #d95426; opacity: .5;"/>
+  <polygon points="27.6 10.8 3.6 52.4 19 79.2 43 62.9 27.6 10.8" style="fill: #3dbeb7; opacity: .5;"/>
+  <polygon points="43 62.9 48.8 64.1 68.6 100.9 31.5 100.9 19 79.2 43 62.9" style="fill: #d5eaf9; opacity: .5;"/>
+  <polygon points="48.8 64.1 59.3 57.9 65.1 59.8 87.9 100.3 87.5 100.9 68.6 100.9 48.8 64.1" style="fill: #d9c825; opacity: .5;"/>
+  <polygon points="65.1 59.8 80.7 54.3 104.7 71.1 87.9 100.3 65.1 59.8" style="fill: #3a52a4; opacity: .5;"/>
+  <polygon points="80.7 54.3 104.7 71.1 115.5 52.4 97.2 20.7 79.1 45.9 80.7 54.3" style="fill: #009b51; opacity: .5;"/>
+  <polygon points="97.2 20.7 87.5 3.9 62.9 3.9 70 41.2 79.1 45.9 97.2 20.7" style="fill: #935267; opacity: .5;"/>
+  <polygon points="70 41.2 60.5 48.2 59.3 57.9 65.1 59.8 80.7 54.3 79.1 45.9 70 41.2" style="fill: #4ec9f5; opacity: .5;"/>
+</svg>

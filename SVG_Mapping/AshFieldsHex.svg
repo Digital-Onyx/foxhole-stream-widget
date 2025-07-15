@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="AshFields" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
+  <polygon points="87.5 3.9 66 3.9 67.1 35.5 102.3 29.7 87.5 3.9" style="fill: #fded6c; opacity: .5;"/>
+  <polygon points="67.1 35.5 64 38.8 74.4 58.1 109.7 62.5 115.5 52.4 102.3 29.7 67.1 35.5" style="fill: #73bf44; opacity: .5;"/>
+  <polygon points="74.4 58.1 38.4 100.9 87.5 100.9 109.7 62.5 74.4 58.1" style="fill: #a9dde2; opacity: .5;"/>
+  <polygon points="64 38.8 55.8 39.7 30.4 99 31.5 100.9 38.4 100.9 74.4 58.1 64 38.8" style="fill: #bf1e5a; opacity: .5;"/>
+  <polygon points="55.8 39.7 12 37.8 3.6 52.4 30.4 99 55.8 39.7" style="fill: #faed34; opacity: .5;"/>
+  <polygon points="12 37.8 31.5 3.9 37.9 3.9 55.8 39.7 12 37.8" style="fill: #3a52a4; opacity: .5;"/>
+  <polygon points="37.9 3.9 66 3.9 67.1 35.5 64 38.8 55.8 39.7 37.9 3.9" style="fill: #ef4423; opacity: .5;"/>
+</svg>

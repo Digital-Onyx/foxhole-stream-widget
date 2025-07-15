@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="TheOarbreakerIsles" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
+  <polygon points="87.5 3.9 60.9 3.9 55.5 39.5 68 43.6 96.7 19.9 87.5 3.9" style="fill: #e5c1dc; opacity: .5;"/>
+  <polygon points="68 43.6 71.8 54.2 109.4 63.1 115.5 52.4 96.7 19.9 68 43.6" style="fill: #721446; opacity: .5;"/>
+  <polygon points="71.8 54.2 67.4 64.7 90.8 95.3 109.4 63.1 71.8 54.2" style="fill: #7dbfe9; opacity: .5;"/>
+  <polygon points="67.4 64.7 56.4 68.2 56.1 69.9 58.3 100.9 87.5 100.9 90.8 95.3 67.4 64.7" style="fill: #c71d68; opacity: .5;"/>
+  <polygon points="56.1 69.9 18.9 79.1 31.5 100.9 58.3 100.9 56.1 69.9" style="fill: #a48fc3; opacity: .5;"/>
+  <polygon points="56.4 68.2 45.7 52.9 13.8 70.2 18.9 79.1 56.1 69.9 56.4 68.2" style="fill: #221c0f; opacity: .5;"/>
+  <polygon points="13.8 70.2 3.6 52.4 20.3 23.5 50.3 41.2 45.7 52.9 13.8 70.2" style="fill: #f6861f; opacity: .5;"/>
+  <polygon points="20.3 23.5 31.5 3.9 60.9 3.9 55.5 39.5 50.3 41.2 20.3 23.5" style="fill: #bf1e5a; opacity: .5;"/>
+  <polygon points="50.3 41.2 55.5 39.5 68 43.6 71.8 54.2 67.4 64.7 56.4 68.2 45.7 52.9 50.3 41.2" style="fill: #13a64a; opacity: .5;"/>
+</svg>

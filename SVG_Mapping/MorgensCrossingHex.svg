@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="MorgensCrossing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
+  <polygon points="31.5 3.9 59.4 3.9 56 31.9 55 33.4 20 23.9 31.5 3.9" style="fill: #73bf44; opacity: .5;"/>
+  <polygon points="20 23.9 3.6 52.4 9.2 62.2 50.3 57.8 56 47.6 55 33.4 20 23.9" style="fill: #3dbeb7; opacity: .5;"/>
+  <polygon points="50.3 57.8 88 100.1 87.5 100.9 31.5 100.9 9.2 62.2 50.3 57.8" style="fill: #bf1e5a; opacity: .5;"/>
+  <polygon points="50.3 57.8 56 47.6 112.2 46.7 115.5 52.4 88 100.1 50.3 57.8" style="fill: #b8e4f4; opacity: .5;"/>
+  <polygon points="55 33.4 56 47.6 112.2 46.7 100.3 26.1 55.7 32.4 55 33.4" style="fill: #ffde92; opacity: .5;"/>
+  <polygon points="59.4 3.9 55.7 32.4 100.3 26.1 87.5 3.9 59.4 3.9" style="fill: #9b94c8; opacity: .5;"/>
+</svg>

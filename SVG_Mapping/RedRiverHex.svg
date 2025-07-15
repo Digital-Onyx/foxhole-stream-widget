@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="RedRiver" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
+  <polygon points="87.5 3.9 66.6 3.9 69.3 32 70.5 33 104.6 33.6 87.5 3.9" style="fill: #73bf44; opacity: .5;"/>
+  <polygon points="70.5 33 69.6 54.7 107.8 39.1 104.6 33.6 70.5 33" style="fill: #71c492; opacity: .5;"/>
+  <polygon points="107.8 39.1 115.5 52.4 87.5 100.9 78.3 100.9 67.7 57.1 69.6 54.7 107.8 39.1" style="fill: #bf1e5a; opacity: .5;"/>
+  <polygon points="67.7 57.1 58.9 53.9 15.4 73 31.5 100.9 78.3 100.9 67.7 57.1" style="fill: #342f90; opacity: .5;"/>
+  <polygon points="15.4 73 7.8 59.8 51.7 37.6 58.9 53.9 15.4 73" style="fill: #a9dde2; opacity: .5;"/>
+  <polygon points="7.8 59.8 3.6 52.4 31.5 3.9 38.7 3.9 52.7 35 51.7 37.6 7.8 59.8" style="fill: #e9f2fa; opacity: .5;"/>
+  <polygon points="38.7 3.9 66.6 3.9 69.3 32 52.7 35 38.7 3.9" style="fill: #faed34; opacity: .5;"/>
+  <polygon points="69.3 32 70.5 33 69.6 54.7 67.7 57.1 58.9 53.9 51.7 37.6 52.7 35 69.3 32" style="fill: #42c1f0; opacity: .5;"/>
+</svg>
