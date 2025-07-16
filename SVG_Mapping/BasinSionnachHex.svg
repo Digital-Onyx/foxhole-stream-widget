@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="BasinSionnach" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="31.5 100.9 13.8 70.2 37.6 62.2 62.2 68.4 80.9 100.9 31.5 100.9" style="fill: #ffde92; opacity: .5;"/>
-  <polygon points="62.2 68.4 66.1 50.9 77.4 46.9 103.5 73.2 87.5 100.9 80.9 100.9 62.2 68.4" style="fill: #d41d52; opacity: .5;"/>
-  <polygon points="77.4 46.9 92.8 13.2 115.5 52.4 103.5 73.2 77.4 46.9" style="fill: #857371; opacity: .5;"/>
-  <polygon points="92.8 13.2 87.5 3.9 44 3.9 51.7 36.6 66.1 50.9 77.4 46.9 92.8 13.2" style="fill: #3dbeb7; opacity: .5;"/>
-  <polygon points="66.1 50.9 62.2 68.4 37.6 62.2 51.7 36.6 66.1 50.9" style="fill: #9b94c8; opacity: .5;"/>
-  <polygon points="44 3.9 31.5 3.9 3.6 52.4 13.8 70.2 37.6 62.2 51.7 36.6 44 3.9" style="fill: #73bf44; opacity: .5;"/>
+  <polygon id="basin_basinhome" points="31.5 100.9 13.8 70.2 37.6 62.2 62.2 68.4 80.9 100.9 31.5 100.9" style="fill: #ffde92;"/>
+  <polygon id="basin_lamplight" points="62.2 68.4 66.1 50.9 77.4 46.9 103.5 73.2 87.5 100.9 80.9 100.9 62.2 68.4" style="fill: #d41d52;"/>
+  <polygon id="basin_stoic" points="77.4 46.9 92.8 13.2 115.5 52.4 103.5 73.2 77.4 46.9" style="fill: #857371;"/>
+  <polygon id="basin_cuttail" points="92.8 13.2 87.5 3.9 44 3.9 51.7 36.6 66.1 50.9 77.4 46.9 92.8 13.2" style="fill: #3dbeb7;"/>
+  <polygon id="basin_theden" points="66.1 50.9 62.2 68.4 37.6 62.2 51.7 36.6 66.1 50.9" style="fill: #9b94c8;"/>
+  <polygon id="basin_sess" points="44 3.9 31.5 3.9 3.6 52.4 13.8 70.2 37.6 62.2 51.7 36.6 44 3.9" style="fill: #73bf44;"/>
 </svg>

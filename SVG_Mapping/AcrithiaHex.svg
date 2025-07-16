@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Acrithia" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="3.6 52.4 28.9 8.5 48.6 27.3 44.6 48.9 9.4 62.6 3.6 52.4" style="fill: #73bf44; opacity: .5;"/>
-  <polygon points="48.6 27.3 65.5 29.4 68.7 3.9 31.5 3.9 28.9 8.5 48.6 27.3" style="fill: #72cddb; opacity: .5;"/>
-  <polygon points="68.7 3.9 87.5 3.9 103.7 32 70.4 36.2 65.5 29.4 68.7 3.9" style="fill: #342f90; opacity: .5;"/>
-  <polygon points="44.6 48.9 46.5 49.1 63.7 65.6 61.8 100.9 31.5 100.9 9.4 62.6 44.6 48.9" style="fill: #3dbeb7; opacity: .5;"/>
-  <polygon points="63.7 65.6 70.7 54.6 108.7 64.2 87.5 100.9 61.8 100.9 63.7 65.6" style="fill: #bf1e5a; opacity: .5;"/>
-  <polygon points="70.7 54.6 68.7 40.8 70.4 36.2 103.7 32 115.5 52.4 108.7 64.2 70.7 54.6" style="fill: #dae8f6; opacity: .5;"/>
-  <polygon points="48.6 27.3 65.5 29.4 70.4 36.2 68.7 40.8 46.5 49.1 44.6 48.9 48.6 27.3" style="fill: #bf1e5a; opacity: .5;"/>
-  <polygon points="46.5 49.1 68.7 40.8 70.7 54.6 63.7 65.6 46.5 49.1" style="fill: #fded6c; opacity: .5;"/>
+  <polygon id="acrithia_swordfort" points="3.6 52.4 28.9 8.5 48.6 27.3 44.6 48.9 9.4 62.6 3.6 52.4" style="fill: #73bf44;"/>
+  <polygon id="acrithia_heir_apparent" points="48.6 27.3 65.5 29.4 68.7 3.9 31.5 3.9 28.9 8.5 48.6 27.3" style="fill: #72cddb;"/>
+  <polygon id="acrithia_omicron" points="68.7 3.9 87.5 3.9 103.7 32 70.4 36.2 65.5 29.4 68.7 3.9" style="fill: #342f90;"/>
+  <polygon id="acrithia_patridia" points="44.6 48.9 46.5 49.1 63.7 65.6 61.8 100.9 31.5 100.9 9.4 62.6 44.6 48.9" style="fill: #3dbeb7;"/>
+  <polygon id="acrithia_nereid" points="63.7 65.6 70.7 54.6 108.7 64.2 87.5 100.9 61.8 100.9 63.7 65.6" style="fill: #bf1e5a;"/>
+  <polygon id="acrithia_legion" points="70.7 54.6 68.7 40.8 70.4 36.2 103.7 32 115.5 52.4 108.7 64.2 70.7 54.6" style="fill: #dae8f6;"/>
+  <polygon id="acrithia_thetus" points="48.6 27.3 65.5 29.4 70.4 36.2 68.7 40.8 46.5 49.1 44.6 48.9 48.6 27.3" style="fill: #fc8f00ff;"/>
+  <polygon id="acrithia_brinehold" points="46.5 49.1 68.7 40.8 70.7 54.6 63.7 65.6 46.5 49.1" style="fill: #fded6c;"/>
 </svg>

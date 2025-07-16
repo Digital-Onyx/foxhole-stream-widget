@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Origin" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="87.5 3.9 31.5 3.9 24.6 16 56.5 30.6 99.6 25 87.5 3.9" style="fill: #935267; opacity: .5;"/>
-  <polygon points="99.6 25 102.3 29.7 68.4 55.9 56.5 30.6 99.6 25" style="fill: #ef4423; opacity: .5;"/>
-  <polygon points="68.4 55.9 67.6 58 96.7 85.1 115.5 52.4 102.3 29.7 68.4 55.9" style="fill: #faed34; opacity: .5;"/>
-  <polygon points="67.6 58 60.4 61.6 57.9 65.4 57.9 100.9 87.5 100.9 96.7 85.1 67.6 58" style="fill: #bf1e5a; opacity: .5;"/>
-  <polygon points="57.9 65.4 11 65.4 31.5 100.9 57.9 100.9 57.9 65.4" style="fill: #3a52a4; opacity: .5;"/>
-  <polygon points="11 65.4 3.6 52.4 21.5 21.3 60.4 61.6 57.9 65.4 11 65.4" style="fill: #119b48; opacity: .5;"/>
-  <polygon points="21.5 21.3 24.6 16 56.5 30.6 68.4 55.9 67.6 58 60.4 61.6 21.5 21.3" style="fill: #dbcbe3; opacity: .5;"/>
+  <polygon id="origin_steelroad" points="87.5 3.9 31.5 3.9 24.6 16 56.5 30.6 99.6 25 87.5 3.9" style="fill: #935267;"/>
+  <polygon id="origin_initium" points="99.6 25 102.3 29.7 68.4 55.9 56.5 30.6 99.6 25" style="fill: #ef4423;"/>
+  <polygon id="origin_dormio" points="68.4 55.9 67.6 58 96.7 85.1 115.5 52.4 102.3 29.7 68.4 55.9" style="fill: #faed34;"/>
+  <polygon id="origin_worldstar" points="67.6 58 60.4 61.6 57.9 65.4 57.9 100.9 87.5 100.9 96.7 85.1 67.6 58" style="fill: #bf1e5a;"/>
+  <polygon id="origin_teichotima" points="57.9 65.4 11 65.4 31.5 100.9 57.9 100.9 57.9 65.4" style="fill: #3a52a4;"/>
+  <polygon id="origin_finis" points="11 65.4 3.6 52.4 21.5 21.3 60.4 61.6 57.9 65.4 11 65.4" style="fill: #119b48;"/>
+  <polygon id="origin_arise" points="21.5 21.3 24.6 16 56.5 30.6 68.4 55.9 67.6 58 60.4 61.6 21.5 21.3" style="fill: #dbcbe3;"/>
 </svg>

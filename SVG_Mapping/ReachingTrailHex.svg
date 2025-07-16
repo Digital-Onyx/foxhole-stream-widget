@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="ReachingTrail" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="31.5 100.9 25.6 90.6 58.9 77.6 64.3 80 69.7 100.9 31.5 100.9" style="fill: #73bf44; opacity: .5;"/>
-  <polygon points="64.3 80 75.6 69.5 85.6 70.6 100.9 77.6 87.5 100.9 69.7 100.9 64.3 80" style="fill: #935267; opacity: .5;"/>
-  <polygon points="100.9 77.6 115.5 52.4 103.4 31.5 83.2 49.2 85.6 70.6 100.9 77.6" style="fill: #3dbeb7; opacity: .5;"/>
-  <polygon points="83.2 49.2 66 53 75.6 69.5 85.6 70.6 83.2 49.2" style="fill: #2a338e; opacity: .5;"/>
-  <polygon points="83.2 49.2 103.4 31.5 87.5 3.9 75.8 3.9 73.7 7.6 63.3 51.9 66 53 83.2 49.2" style="fill: #71c492; opacity: .5;"/>
-  <polygon points="73.7 7.6 42.6 36.3 42.6 39.6 60.2 52 63.3 51.9 73.7 7.6" style="fill: #857371; opacity: .5;"/>
-  <polygon points="75.8 3.9 73.7 7.6 42.6 36.3 21.2 22 31.5 3.9 75.8 3.9" style="fill: #d41d52; opacity: .5;"/>
-  <polygon points="21.2 22 42.6 36.3 42.6 39.6 22.7 66.7 14.7 71.7 3.6 52.4 21.2 22" style="fill: #ffde92; opacity: .5;"/>
-  <polygon points="42.6 39.6 60.2 52 52.5 61.7 22.7 66.7 42.6 39.6" style="fill: #9b94c8; opacity: .5;"/>
-  <polygon points="22.7 66.7 14.7 71.7 25.6 90.6 58.9 77.6 52.5 61.7 22.7 66.7" style="fill: #662673; opacity: .5;"/>
-  <polygon points="52.5 61.7 60.2 52 63.3 51.9 66 53 75.6 69.5 64.3 80 58.9 77.6 52.5 61.7" style="fill: #b8e4f4; opacity: .5;"/>
+  <polygon id="reachingtrail_harpy" points="31.5 100.9 25.6 90.6 58.9 77.6 64.3 80 69.7 100.9 31.5 100.9" style="fill: #73bf44;"/>
+  <polygon id="reachingtrail_fortmacconaill" points="64.3 80 75.6 69.5 85.6 70.6 100.9 77.6 87.5 100.9 69.7 100.9 64.3 80" style="fill: #935267;"/>
+  <polygon id="reachingtrail_mousetrap" points="100.9 77.6 115.5 52.4 103.4 31.5 83.2 49.2 85.6 70.6 100.9 77.6" style="fill: #3dbeb7;"/>
+  <polygon id="reachingtrail_theark" points="83.2 49.2 66 53 75.6 69.5 85.6 70.6 83.2 49.2" style="fill: #2a338e;"/>
+  <polygon id="reachingtrail_iceranch" points="83.2 49.2 103.4 31.5 87.5 3.9 75.8 3.9 73.7 7.6 63.3 51.9 66 53 83.2 49.2" style="fill: #71c492;"/>
+  <polygon id="reachingtrail_brodytown" points="73.7 7.6 42.6 36.3 42.6 39.6 60.2 52 63.3 51.9 73.7 7.6" style="fill: #857371;"/>
+  <polygon id="reachingtrail_limestoneholdfast" points="75.8 3.9 73.7 7.6 42.6 36.3 21.2 22 31.5 3.9 75.8 3.9" style="fill: #d41d52;"/>
+  <polygon id="reachingtrail_dwyerstown" points="21.2 22 42.6 36.3 42.6 39.6 22.7 66.7 14.7 71.7 3.6 52.4 21.2 22" style="fill: #ffde92;"/>
+  <polygon id="reachingtrail_elksford" points="42.6 39.6 60.2 52 52.5 61.7 22.7 66.7 42.6 39.6" style="fill: #9b94c8;"/>
+  <polygon id="reachingtrail_nightchurch" points="22.7 66.7 14.7 71.7 25.6 90.6 58.9 77.6 52.5 61.7 22.7 66.7" style="fill: #662673;"/>
+  <polygon id="reachingtrail_repreieve" points="52.5 61.7 60.2 52 63.3 51.9 66 53 75.6 69.5 64.3 80 58.9 77.6 52.5 61.7" style="fill: #b8e4f4;"/>
 </svg>

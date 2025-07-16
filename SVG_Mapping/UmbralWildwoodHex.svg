@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="UmbralWildwood" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="115.5 52.4 111.9 46.2 77.6 51 90 81.1 95.6 87 115.5 52.4" style="fill: #3a52a4; opacity: .5;"/>
-  <polygon points="111.9 46.2 98.1 22.3 79.4 35.2 74.7 49.2 77.6 51 111.9 46.2" style="fill: #72cddb; opacity: .5;"/>
-  <polygon points="74.7 49.2 77.6 51 90 81.1 57.8 62.3 61.4 51.9 74.7 49.2" style="fill: #119b48; opacity: .5;"/>
-  <polygon points="61.4 51.9 53.1 38.8 66.6 29.6 79.4 35.2 74.7 49.2 61.4 51.9" style="fill: #bf1e5a; opacity: .5;"/>
-  <polygon points="53.1 38.8 34.6 42.7 41.2 67.7 55.4 64.5 57.8 62.3 61.4 51.9 53.1 38.8" style="fill: #71c492; opacity: .5;"/>
-  <polygon points="57.8 62.3 55.4 64.5 63.2 100.9 87.5 100.9 95.6 87 90 81.1 57.8 62.3" style="fill: #342f90; opacity: .5;"/>
-  <polygon points="55.4 64.5 41.2 67.7 22.1 84.6 31.5 100.9 63.2 100.9 55.4 64.5" style="fill: #73bf44; opacity: .5;"/>
-  <polygon points="41.2 67.7 22.1 84.6 3.6 52.4 13.6 35 34.6 42.7 41.2 67.7" style="fill: #3dbeb7; opacity: .5;"/>
-  <polygon points="13.6 35 34.6 42.7 53.1 38.8 53.7 38.4 44.6 3.9 31.5 3.9 13.6 35" style="fill: #0c713a; opacity: .5;"/>
-  <polygon points="44.6 3.9 70 3.9 66.6 29.6 53.7 38.4 44.6 3.9" style="fill: #95872a; opacity: .5;"/>
-  <polygon points="70 3.9 87.5 3.9 98.1 22.3 79.4 35.2 66.6 29.6 70 3.9" style="fill: #935267; opacity: .5;"/>
+  <polygon id="umbralwildwood_lachesistally" points="115.5 52.4 111.9 46.2 77.6 51 90 81.1 95.6 87 115.5 52.4" style="fill: #003cffff;"/>
+  <polygon id="umbralwildwood_amethyst" points="111.9 46.2 98.1 22.3 79.4 35.2 74.7 49.2 77.6 51 111.9 46.2" style="fill: #72cddb;"/>
+  <polygon id="umbralwildwood_hermitsrest" points="74.7 49.2 77.6 51 90 81.1 57.8 62.3 61.4 51.9 74.7 49.2" style="fill: #119b48;"/>
+  <polygon id="umbralwildwood_clothosrefuge" points="61.4 51.9 53.1 38.8 66.6 29.6 79.4 35.2 74.7 49.2 61.4 51.9" style="fill: #bf1e5a;"/>
+  <polygon id="umbralwildwood_thunderfoot" points="53.1 38.8 34.6 42.7 41.2 67.7 55.4 64.5 57.8 62.3 61.4 51.9 53.1 38.8" style="fill: #17773dff;"/>
+  <polygon id="umbralwildwood_atroposfate" points="57.8 62.3 55.4 64.5 63.2 100.9 87.5 100.9 95.6 87 90 81.1 57.8 62.3" style="fill: #8780ffff;"/>
+  <polygon id="umbralwildwood_sentry" points="55.4 64.5 41.2 67.7 22.1 84.6 31.5 100.9 63.2 100.9 55.4 64.5" style="fill: #e4ffd3ff;"/>
+  <polygon id="umbralwildwood_goldenrootranch" points="41.2 67.7 22.1 84.6 3.6 52.4 13.6 35 34.6 42.7 41.2 67.7" style="fill: #3dbeb7;"/>
+  <polygon id="umbralwildwood_thefoundry" points="13.6 35 34.6 42.7 53.1 38.8 53.7 38.4 44.6 3.9 31.5 3.9 13.6 35" style="fill: #c200a8ff;"/>
+  <polygon id="umbralwildwood_vagrantbastion" points="44.6 3.9 70 3.9 66.6 29.6 53.7 38.4 44.6 3.9" style="fill: #95872a;"/>
+  <polygon id="umbralwildwood_stray" points="70 3.9 87.5 3.9 98.1 22.3 79.4 35.2 66.6 29.6 70 3.9" style="fill: #ff0051ff;"/>
 </svg>

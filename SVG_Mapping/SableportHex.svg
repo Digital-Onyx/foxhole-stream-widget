@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Sableport" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="87.5 3.9 77.5 3.9 71.1 14.8 64.7 51.6 67 51.6 109.8 42.5 87.5 3.9" style="fill: #342f90; opacity: .5;"/>
-  <polygon points="109.8 42.5 115.5 52.4 96 86.3 66 51.6 67 51.6 109.8 42.5" style="fill: #fded6c; opacity: .5;"/>
-  <polygon points="66 51.6 64.7 51.6 63 52 58.8 58.1 58.8 100.9 87.5 100.9 96 86.3 66 51.6" style="fill: #ef4423; opacity: .5;"/>
-  <polygon points="58.8 58.1 8.7 61.4 31.5 100.9 58.8 100.9 58.8 58.1" style="fill: #119b48; opacity: .5;"/>
-  <polygon points="58.8 58.1 63 52 42.5 35.3 15.1 32.5 3.6 52.4 8.7 61.4 58.8 58.1" style="fill: #342f90; opacity: .5;"/>
-  <polygon points="15.1 32.5 31.5 3.9 77.5 3.9 71.1 14.8 42.5 35.3 15.1 32.5" style="fill: #ffd864; opacity: .5;"/>
-  <polygon points="71.1 14.8 42.5 35.3 63 52 64.7 51.6 71.1 14.8" style="fill: #935267; opacity: .5;"/>
+  <polygon id="sableport_thependant" points="87.5 3.9 77.5 3.9 71.1 14.8 64.7 51.6 67 51.6 109.8 42.5 87.5 3.9" style="fill: #902f2fff;"/>
+  <polygon id="sableport_therobinsnest" points="109.8 42.5 115.5 52.4 96 86.3 66 51.6 67 51.6 109.8 42.5" style="fill: #ffe100ff;"/>
+  <polygon id="sableport_barronhome" points="66 51.6 64.7 51.6 63 52 58.8 58.1 58.8 100.9 87.5 100.9 96 86.3 66 51.6" style="fill: #ff2a00ff;"/>
+  <polygon id="sableport_lightsend" points="58.8 58.1 8.7 61.4 31.5 100.9 58.8 100.9 58.8 58.1" style="fill: #00ff66ff;"/>
+  <polygon id="sableport_thewhetstone" points="58.8 58.1 63 52 42.5 35.3 15.1 32.5 3.6 52.4 8.7 61.4 58.8 58.1" style="fill: #0d00ffff;"/>
+  <polygon id="sableport_talonsfort" points="15.1 32.5 31.5 3.9 77.5 3.9 71.1 14.8 42.5 35.3 15.1 32.5" style="fill: #ff7b00ff;"/>
+  <polygon id="sableport_cinderwhick" points="71.1 14.8 42.5 35.3 63 52 64.7 51.6 71.1 14.8" style="fill: #935267;"/>
 </svg>

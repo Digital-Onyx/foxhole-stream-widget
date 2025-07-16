@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="LinnOfMercy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="87.5 3.9 92.3 12.3 64.5 37.2 59.4 35.1 51.7 3.9 87.5 3.9" style="fill: #bf1e5a; opacity: .5;"/>
-  <polygon points="92.3 12.3 103.1 31 71.8 51 64.5 37.2 92.3 12.3" style="fill: #7dbfe9; opacity: .5;"/>
-  <polygon points="103.1 31 115.5 52.4 105.1 70.5 76.8 60.7 71.6 56.1 71.8 51 103.1 31" style="fill: #95872a; opacity: .5;"/>
-  <polygon points="76.8 60.7 70.1 96.4 71.4 100.9 87.5 100.9 105.1 70.5 76.8 60.7" style="fill: #3dbeb7; opacity: .5;"/>
-  <polygon points="70.1 96.4 59.5 78.8 62.6 60.7 71.6 56.1 76.8 60.7 70.1 96.4" style="fill: #721446; opacity: .5;"/>
-  <polygon points="59.5 78.8 41.4 74.8 22.8 85.7 31.5 100.9 71.4 100.9 70.1 96.4 59.5 78.8" style="fill: #71c492; opacity: .5;"/>
-  <polygon points="59.5 78.8 62.6 60.7 59 60 44.2 67.3 41.4 74.8 59.5 78.8" style="fill: #72bf44; opacity: .5;"/>
-  <polygon points="44.2 67.3 36.7 43.9 12.7 36.5 3.6 52.4 22.8 85.7 41.4 74.8 44.2 67.3" style="fill: #fdf7b3; opacity: .5;"/>
-  <polygon points="44.2 67.3 59 60 39.1 43.9 36.7 43.9 44.2 67.3" style="fill: #1a0e1d; opacity: .5;"/>
-  <polygon points="36.7 43.9 12.7 36.5 31.5 3.9 51.7 3.9 59.4 35.1 39.1 43.9 36.7 43.9" style="fill: #d64e9c; opacity: .5;"/>
-  <polygon points="59.4 35.1 64.5 37.2 71.8 51 71.6 56.1 62.6 60.7 59 60 39.1 43.9 59.4 35.1" style="fill: #ffd864; opacity: .5;"/>
+  <polygon id="linnofmercy_rotdust" points="87.5 3.9 92.3 12.3 64.5 37.2 59.4 35.1 51.7 3.9 87.5 3.9" style="fill: #ff005dff;"/>
+  <polygon id="linnofmercy_lathair" points="92.3 12.3 103.1 31 71.8 51 64.5 37.2 92.3 12.3" style="fill: #7dbfe9;"/>
+  <polygon id="linnofmercy_outwichranch" points="103.1 31 115.5 52.4 105.1 70.5 76.8 60.7 71.6 56.1 71.8 51 103.1 31" style="fill: #95872a;"/>
+  <polygon id="linnofmercy_theprairiebazaar" points="76.8 60.7 70.1 96.4 71.4 100.9 87.5 100.9 105.1 70.5 76.8 60.7" style="fill: #eafffeff;"/>
+  <polygon id="linnofmercy_thelongwhine" points="70.1 96.4 59.5 78.8 62.6 60.7 71.6 56.1 76.8 60.7 70.1 96.4" style="fill: #721446;"/>
+  <polygon id="linnofmercy_thelastgrove" points="59.5 78.8 41.4 74.8 22.8 85.7 31.5 100.9 71.4 100.9 70.1 96.4 59.5 78.8" style="fill: #00ff66ff;"/>
+  <polygon id="linnofmercy_thefirstcoin" points="59.5 78.8 62.6 60.7 59 60 44.2 67.3 41.4 74.8 59.5 78.8" style="fill: #72bf44;"/>
+  <polygon id="linnofmercy_thecrimsongardens" points="44.2 67.3 36.7 43.9 12.7 36.5 3.6 52.4 22.8 85.7 41.4 74.8 44.2 67.3" style="fill: #d4cf94ff;"/>
+  <polygon id="linnofmercy_hardline" points="44.2 67.3 59 60 39.1 43.9 36.7 43.9 44.2 67.3" style="fill: #1a0e1d;"/>
+  <polygon id="linnofmercy_thelongwhine" points="36.7 43.9 12.7 36.5 31.5 3.9 51.7 3.9 59.4 35.1 39.1 43.9 36.7 43.9" style="fill: #884c6eff;"/>
+  <polygon id="linnofmercy_ulsterfalls" points="59.4 35.1 64.5 37.2 71.8 51 71.6 56.1 62.6 60.7 59 60 39.1 43.9 59.4 35.1" style="fill: #ffd864;"/>
 </svg>

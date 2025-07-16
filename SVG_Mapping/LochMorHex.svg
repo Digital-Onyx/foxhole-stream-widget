@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="LochMor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="87.5 3.9 65.8 3.9 61.6 33 73.3 39.7 102.1 29.2 87.5 3.9" style="fill: #3dbeb7; opacity: .5;"/>
-  <polygon points="73.3 39.7 67.1 58.7 98.3 82.2 115.5 52.4 102.1 29.2 73.3 39.7" style="fill: #95872a; opacity: .5;"/>
-  <polygon points="98.3 82.2 87.5 100.9 31.5 100.9 29.6 97.5 50.3 63.5 67.1 58.7 98.3 82.2" style="fill: #342f90; opacity: .5;"/>
-  <polygon points="50.3 63.5 29.6 97.5 3.6 52.4 13.7 34.9 43.6 43 50.3 63.5" style="fill: #bf1e5a; opacity: .5;"/>
-  <polygon points="13.7 34.9 31.5 3.9 38.4 3.9 51.9 34 43.6 43 13.7 34.9" style="fill: #72cddb; opacity: .5;"/>
-  <polygon points="38.4 3.9 65.8 3.9 61.6 33 51.9 34 38.4 3.9" style="fill: #c71d68; opacity: .5;"/>
-  <polygon points="43.6 43 51.9 34 61.6 33 73.3 39.7 67.1 58.7 50.3 63.5 43.6 43" style="fill: #d5eaf9; opacity: .5;"/>
+  <polygon id="locmor_westmarch" points="87.5 3.9 65.8 3.9 61.6 33 73.3 39.7 102.1 29.2 87.5 3.9" style="fill: #ff0000ff;"/>
+  <polygon id="locmor_moonscopse" points="73.3 39.7 67.1 58.7 98.3 82.2 115.5 52.4 102.1 29.2 73.3 39.7" style="fill: #ffdd00ff;"/>
+  <polygon id="locmor_roilfort" points="98.3 82.2 87.5 100.9 31.5 100.9 29.6 97.5 50.3 63.5 67.1 58.7 98.3 82.2" style="fill: #0d00ffff;"/>
+  <polygon id="locmor_marketroad" points="50.3 63.5 29.6 97.5 3.6 52.4 13.7 34.9 43.6 43 50.3 63.5" style="fill: #8c00ffff;"/>
+  <polygon id="locmor_tombofthefirst" points="13.7 34.9 31.5 3.9 38.4 3.9 51.9 34 43.6 43 13.7 34.9" style="fill: #ffbf00ff;"/>
+  <polygon id="locmor_mercyswish" points="38.4 3.9 65.8 3.9 61.6 33 51.9 34 38.4 3.9" style="fill: #ff88bcff;"/>
+  <polygon id="locmor_feirmor" points="43.6 43 51.9 34 61.6 33 73.3 39.7 67.1 58.7 50.3 63.5 43.6 43" style="fill: #888888ff;"/>
 </svg>

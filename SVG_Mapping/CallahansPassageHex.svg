@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="CallahansPassage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="47.1 100.9 31.5 100.9 16.4 74.8 51.5 63.5 52.8 65 47.1 100.9" style="fill: #bf1e5a; opacity: .5;"/>
-  <polygon points="52.8 65 67.5 72.5 77.5 100.9 47.1 100.9 52.8 65" style="fill: #95872a; opacity: .5;"/>
-  <polygon points="67.5 72.5 72.8 56.4 111.3 59.6 87.5 100.9 77.5 100.9 67.5 72.5" style="fill: #0c713a; opacity: .5;"/>
-  <polygon points="72.8 56.4 73.9 39.6 107.5 38.7 115.5 52.4 111.3 59.6 72.8 56.4" style="fill: #721446; opacity: .5;"/>
-  <polygon points="87.5 3.9 107.5 38.7 73.9 39.6 68 33.9 83.2 3.9 87.5 3.9" style="fill: #73bf44; opacity: .5;"/>
-  <polygon points="83.2 3.9 39.1 3.9 51.5 36.4 68 33.9 83.2 3.9" style="fill: #3dbeb7; opacity: .5;"/>
-  <polygon points="39.1 3.9 31.5 3.9 3.6 52.4 6.4 57.3 49.6 41.5 51.5 36.4 39.1 3.9" style="fill: #935267; opacity: .5;"/>
-  <polygon points="6.4 57.3 16.4 74.8 51.5 63.5 53.8 50.9 49.6 41.5 6.4 57.3" style="fill: #2a338e; opacity: .5;"/>
-  <polygon points="49.6 41.5 51.5 36.4 68 33.9 73.9 39.6 72.8 56.4 53.8 50.9 49.6 41.5" style="fill: #71c492; opacity: .5;"/>
-  <polygon points="53.8 50.9 72.8 56.4 67.5 72.5 52.8 65 51.5 63.5 53.8 50.9" style="fill: #7dbfe9; opacity: .5;"/>
+  <polygon id="callahans_crumblingpost" points="47.1 100.9 31.5 100.9 16.4 74.8 51.5 63.5 52.8 65 47.1 100.9" style="fill: #bf1e5a;"/>
+  <polygon id="callahans_crumblingpassage" points="52.8 65 67.5 72.5 77.5 100.9 47.1 100.9 52.8 65" style="fill: #95872a;"/>
+  <polygon id="callahans_latch" points="67.5 72.5 72.8 56.4 111.3 59.6 87.5 100.9 77.5 100.9 67.5 72.5" style="fill: #0c713a;"/>
+  <polygon id="callahans_procession" points="72.8 56.4 73.9 39.6 107.5 38.7 115.5 52.4 111.3 59.6 72.8 56.4" style="fill: #721446;"/>
+  <polygon id="callahans_whitechapel" points="87.5 3.9 107.5 38.7 73.9 39.6 68 33.9 83.2 3.9 87.5 3.9" style="fill: #73bf44;"/>
+  <polygon id="callahans_cragstown" points="83.2 3.9 39.1 3.9 51.5 36.4 68 33.9 83.2 3.9" style="fill: #3dbeb7;"/>
+  <polygon id="callahans_solas" points="39.1 3.9 31.5 3.9 3.6 52.4 6.4 57.3 49.6 41.5 51.5 36.4 39.1 3.9" style="fill: #935267;"/>
+  <polygon id="callahans_scathpassing" points="6.4 57.3 16.4 74.8 51.5 63.5 53.8 50.9 49.6 41.5 6.4 57.3" style="fill: #2a338e;"/>
+  <polygon id="callahans_lochanberth" points="49.6 41.5 51.5 36.4 68 33.9 73.9 39.6 72.8 56.4 53.8 50.9 49.6 41.5" style="fill: #71c492;"/>
+  <polygon id="callahans_overlookhill" points="53.8 50.9 72.8 56.4 67.5 72.5 52.8 65 51.5 63.5 53.8 50.9" style="fill: #7dbfe9;"/>
 </svg>

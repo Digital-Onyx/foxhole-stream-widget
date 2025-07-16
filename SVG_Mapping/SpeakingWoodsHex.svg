@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="SpeakingWoods" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="87.5 3.9 62.4 3.9 67.6 25.4 83.8 36.8 101.5 28.2 87.5 3.9" style="fill: #d41d52; opacity: .5;"/>
-  <polygon points="101.5 28.2 115.5 52.4 104.8 70.9 80.5 61.2 77.5 49.6 83.8 36.8 101.5 28.2" style="fill: #71c492; opacity: .5;"/>
-  <polygon points="80.5 61.2 65.9 71.6 58.3 100.9 87.5 100.9 104.8 70.9 80.5 61.2" style="fill: #857371; opacity: .5;"/>
-  <polygon points="58.3 100.9 31.5 100.9 14.8 71.9 52.4 58.3 65.9 71.6 58.3 100.9" style="fill: #7dbfe9; opacity: .5;"/>
-  <polygon points="14.8 71.9 3.6 52.4 20.9 22.4 56.2 43.7 52.4 58.3 14.8 71.9" style="fill: #662673; opacity: .5;"/>
-  <polygon points="56.2 43.7 67.6 25.4 62.4 3.9 31.5 3.9 20.9 22.4 56.2 43.7" style="fill: #73bf44; opacity: .5;"/>
-  <polygon points="67.6 25.4 83.8 36.8 77.5 49.6 56.2 43.7 67.6 25.4" style="fill: #ffde92; opacity: .5;"/>
-  <polygon points="56.2 43.7 77.5 49.6 80.5 61.2 65.9 71.6 52.4 58.3 56.2 43.7" style="fill: #3dbeb7; opacity: .5;"/>
+  <polygon id="speakingwoods_inaribase" points="87.5 3.9 62.4 3.9 67.6 25.4 83.8 36.8 101.5 28.2 87.5 3.9" style="fill: #d41d52;"/>
+  <polygon id="speakingwoods_wound" points="101.5 28.2 115.5 52.4 104.8 70.9 80.5 61.2 77.5 49.6 83.8 36.8 101.5 28.2" style="fill: #71c492;"/>
+  <polygon id="speakingwoods_fortblather" points="80.5 61.2 65.9 71.6 58.3 100.9 87.5 100.9 104.8 70.9 80.5 61.2" style="fill: #857371;"/>
+  <polygon id="speakingwoods_stem" points="58.3 100.9 31.5 100.9 14.8 71.9 52.4 58.3 65.9 71.6 58.3 100.9" style="fill: #7dbfe9;"/>
+  <polygon id="speakingwoods_thefilament" points="14.8 71.9 3.6 52.4 20.9 22.4 56.2 43.7 52.4 58.3 14.8 71.9" style="fill: #662673;"/>
+  <polygon id="speakingwoods_hush" points="56.2 43.7 67.6 25.4 62.4 3.9 31.5 3.9 20.9 22.4 56.2 43.7" style="fill: #73bf44;"/>
+  <polygon id="speakingwoods_tine" points="67.6 25.4 83.8 36.8 77.5 49.6 56.2 43.7 67.6 25.4" style="fill: #ffde92;"/>
+  <polygon id="speakingwoods_sottobank" points="56.2 43.7 77.5 49.6 80.5 61.2 65.9 71.6 52.4 58.3 56.2 43.7" style="fill: #3dbeb7;"/>
 </svg>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="GreatMarch" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="56.6 3.9 58.1 13.7 82.8 33.9 102.5 29.9 87.5 3.9 56.6 3.9" style="fill: #72cddb; opacity: .5;"/>
-  <polygon points="58.1 13.7 56.1 30 59.5 36.6 74.3 40.3 82.8 33.9 58.1 13.7" style="fill: #119b48; opacity: .5;"/>
-  <polygon points="102.5 29.9 82.8 33.9 74.3 40.3 72.5 56.1 95 87.9 115.5 52.4 102.5 29.9" style="fill: #342f90; opacity: .5;"/>
-  <polygon points="59.5 36.6 74.3 40.3 72.5 56.1 52 54.6 59.5 36.6" style="fill: #73bf44; opacity: .5;"/>
-  <polygon points="52 54.6 59.5 36.6 56.1 30 34.4 37.7 49.7 54.6 52 54.6" style="fill: #bf1e5a; opacity: .5;"/>
-  <polygon points="34.4 37.7 15.2 32.3 31.5 3.9 56.6 3.9 58.1 13.7 56.1 30 34.4 37.7" style="fill: #3a52a4; opacity: .5;"/>
-  <polygon points="15.2 32.3 3.6 52.4 19.7 80.5 45.6 67.6 50.9 54.6 49.7 54.6 34.4 37.7 15.2 32.3" style="fill: #71c492; opacity: .5;"/>
-  <polygon points="72.5 56.1 95 87.9 92.8 91.8 45.6 67.6 50.9 54.6 72.5 56.1" style="fill: #3dbeb7; opacity: .5;"/>
-  <polygon points="19.7 80.5 45.6 67.6 92.8 91.8 87.5 100.9 31.5 100.9 19.7 80.5" style="fill: #0c713a; opacity: .5;"/>
+  <polygon id="greatmarch_lionsfort" points="56.6 3.9 58.1 13.7 82.8 33.9 102.5 29.9 87.5 3.9 56.6 3.9" style="fill: #72cddb;"/>
+  <polygon id="greatmarch_myrmidonsstay" points="58.1 13.7 56.1 30 59.5 36.6 74.3 40.3 82.8 33.9 58.1 13.7" style="fill: #119b48;"/>
+  <polygon id="greatmarch_dendrofield" points="102.5 29.9 82.8 33.9 74.3 40.3 72.5 56.1 95 87.9 115.5 52.4 102.5 29.9" style="fill: #342f90;"/>
+  <polygon id="greatmarch_remnantvilla" points="59.5 36.6 74.3 40.3 72.5 56.1 52 54.6 59.5 36.6" style="fill: #bf4444ff;"/>
+  <polygon id="greatmarch_campsenti" points="52 54.6 59.5 36.6 56.1 30 34.4 37.7 49.7 54.6 52 54.6" style="fill: #96ff79ff;"/>
+  <polygon id="greatmarch_violthome" points="34.4 37.7 15.2 32.3 31.5 3.9 56.6 3.9 58.1 13.7 56.1 30 34.4 37.7" style="fill: #ff0088ff;"/>
+  <polygon id="greatmarch_leto" points="15.2 32.3 3.6 52.4 19.7 80.5 45.6 67.6 50.9 54.6 49.7 54.6 34.4 37.7 15.2 32.3" style="fill: #adadadff;"/>
+  <polygon id="greatmarch_sitaria" points="72.5 56.1 95 87.9 92.8 91.8 45.6 67.6 50.9 54.6 72.5 56.1" style="fill: #ecc61ee6;"/>
+  <polygon id="greatmarch_theswan" points="19.7 80.5 45.6 67.6 92.8 91.8 87.5 100.9 31.5 100.9 19.7 80.5" style="fill: #abffd1ff;"/>
 </svg>

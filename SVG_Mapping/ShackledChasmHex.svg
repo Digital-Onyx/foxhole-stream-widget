@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="ShackledChasm" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="31.5 3.9 58.3 3.9 63.4 31.5 57.9 37.8 49.3 39.4 26.1 13.4 31.5 3.9" style="fill: #bf1e5a; opacity: .5;"/>
-  <polygon points="58.3 3.9 87.5 3.9 96.7 19.9 79.4 33.5 63.4 31.5 58.3 3.9" style="fill: #119b48; opacity: .5;"/>
-  <polygon points="26.1 13.4 3.9 51.8 43.8 50.7 49.3 39.4 26.1 13.4" style="fill: #73bf44; opacity: .5;"/>
-  <polygon points="43.8 50.7 3.9 51.8 3.6 52.4 31.5 100.9 33.3 100.9 47.6 57.6 43.8 50.7" style="fill: #3a52a4; opacity: .5;"/>
-  <polygon points="47.6 57.6 64 60.2 66.7 73.4 48 100.9 33.3 100.9 47.6 57.6" style="fill: #71c492; opacity: .5;"/>
-  <polygon points="66.7 73.4 104.7 71.1 87.5 100.9 48 100.9 66.7 73.4" style="fill: #fded6c; opacity: .5;"/>
-  <polygon points="66.7 73.4 64 60.2 68 54 78.8 51 106.3 68.4 104.7 71.1 66.7 73.4" style="fill: #342f90; opacity: .5;"/>
-  <polygon points="57.9 37.8 68 54 78.8 51 79.4 33.5 63.4 31.5 57.9 37.8" style="fill: #72cddb; opacity: .5;"/>
-  <polygon points="49.3 39.4 57.9 37.8 68 54 64 60.2 47.6 57.6 43.8 50.7 49.3 39.4" style="fill: #d5eaf9; opacity: .5;"/>
-  <polygon points="79.4 33.5 96.7 19.9 115.5 52.4 106.3 68.4 78.8 51 79.4 33.5" style="fill: #bf1e5a; opacity: .5;"/>
+  <polygon id="shackledchasm_savages" points="31.5 3.9 58.3 3.9 63.4 31.5 57.9 37.8 49.3 39.4 26.1 13.4 31.5 3.9" style="fill: #ff005dff;"/>
+  <polygon id="shackledchasm_graveoferastos" points="58.3 3.9 87.5 3.9 96.7 19.9 79.4 33.5 63.4 31.5 58.3 3.9" style="fill: #00ff66ff;"/>
+  <polygon id="shackledchasm_gorgongrove" points="26.1 13.4 3.9 51.8 43.8 50.7 49.3 39.4 26.1 13.4" style="fill: #ff8000ff;"/>
+  <polygon id="shackledchasm_reflection" points="43.8 50.7 3.9 51.8 3.6 52.4 31.5 100.9 33.3 100.9 47.6 57.6 43.8 50.7" style="fill: #3a52a4;"/>
+  <polygon id="shackledchasm_silkfarms" points="47.6 57.6 64 60.2 66.7 73.4 48 100.9 33.3 100.9 47.6 57.6" style="fill: #dd00ffff;"/>
+  <polygon id="shackledchasm_simosrun" points="66.7 73.4 104.7 71.1 87.5 100.9 48 100.9 66.7 73.4" style="fill: #fded6c;"/>
+  <polygon id="shackledchasm_thevanguard" points="66.7 73.4 64 60.2 68 54 78.8 51 106.3 68.4 104.7 71.1 66.7 73.4" style="fill: #9893ffff;"/>
+  <polygon id="shackledchasm_belltoll" points="57.9 37.8 68 54 78.8 51 79.4 33.5 63.4 31.5 57.9 37.8" style="fill: #72cddb;"/>
+  <polygon id="shackledchasm_limewoodholdfast" points="49.3 39.4 57.9 37.8 68 54 64 60.2 47.6 57.6 43.8 50.7 49.3 39.4" style="fill: #c1c1c1ff;"/>
+  <polygon id="shackledchasm_firstmarch" points="79.4 33.5 96.7 19.9 115.5 52.4 106.3 68.4 78.8 51 79.4 33.5" style="fill: #bf1e5a;"/>
 </svg>

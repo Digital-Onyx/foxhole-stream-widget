@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="KingsCage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="87.5 3.9 80.9 3.9 62.4 40.5 63.7 44.6 113.5 49.1 87.5 3.9" style="fill: #ffd864; opacity: .5;"/>
-  <polygon points="63.7 44.6 61.3 59.4 108.1 65.2 115.5 52.4 113.5 49.1 63.7 44.6" style="fill: #c71d68; opacity: .5;"/>
-  <polygon points="61.3 59.4 58.8 62.6 60.4 67.5 94.1 89.4 108.1 65.2 61.3 59.4" style="fill: #d5eaf9; opacity: .5;"/>
-  <polygon points="60.4 67.5 53.6 100.9 87.5 100.9 94.1 89.4 60.4 67.5" style="fill: #72bf44; opacity: .5;"/>
-  <polygon points="58.8 62.6 60.4 67.5 53.6 100.9 31.5 100.9 16.7 75.2 40.3 63.1 58.8 62.6" style="fill: #342f90; opacity: .5;"/>
-  <polygon points="16.7 75.2 40.3 63.1 43.7 35.3 24.7 15.9 3.6 52.4 16.7 75.2" style="fill: #fdf7b3; opacity: .5;"/>
-  <polygon points="24.7 15.9 31.5 3.9 80.9 3.9 62.4 40.5 43.7 35.3 24.7 15.9" style="fill: #1c4a23; opacity: .5;"/>
-  <polygon points="43.7 35.3 62.4 40.5 63.7 44.6 61.3 59.4 58.8 62.6 40.3 63.1 43.7 35.3" style="fill: #95872a; opacity: .5;"/>
+  <polygon id="kingscage_denofknaves" points="87.5 3.9 80.9 3.9 62.4 40.5 63.7 44.6 113.5 49.1 87.5 3.9" style="fill: #ffd864;"/>
+  <polygon id="kingscage_eastknife" points="63.7 44.6 61.3 59.4 108.1 65.2 115.5 52.4 113.5 49.1 63.7 44.6" style="fill: #c71d68;"/>
+  <polygon id="kingscage_gibbetfields" points="61.3 59.4 58.8 62.6 60.4 67.5 94.1 89.4 108.1 65.2 61.3 59.4" style="fill: #d5eaf9;"/>
+  <polygon id="kingscage_southblade" points="60.4 67.5 53.6 100.9 87.5 100.9 94.1 89.4 60.4 67.5" style="fill: #72bf44;"/>
+  <polygon id="kingscage_scarlethold" points="58.8 62.6 60.4 67.5 53.6 100.9 31.5 100.9 16.7 75.2 40.3 63.1 58.8 62.6" style="fill: #342f90;"/>
+  <polygon id="kingscage_slipchain" points="16.7 75.2 40.3 63.1 43.7 35.3 24.7 15.9 3.6 52.4 16.7 75.2" style="fill: #fdf7b3;"/>
+  <polygon id="kingscage_thebailie" points="24.7 15.9 31.5 3.9 80.9 3.9 62.4 40.5 43.7 35.3 24.7 15.9" style="fill: #1c4a23;"/>
+  <polygon id="kingscage_themanacle" points="43.7 35.3 62.4 40.5 63.7 44.6 61.3 59.4 58.8 62.6 40.3 63.1 43.7 35.3" style="fill: #95872a;"/>
 </svg>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Kalokai" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="31.5 3.9 87.5 3.9 97.4 21 48.2 25.4 44.8 24.1 29.8 7 31.5 3.9" style="fill: #72cddb; opacity: .5;"/>
-  <polygon points="29.8 7 3.6 52.4 21.2 82.9 47.5 58.5 44.8 24.1 29.8 7" style="fill: #3dbeb7; opacity: .5;"/>
-  <polygon points="44.8 24.1 48.2 25.4 73.3 43.9 62.2 60.1 47.5 58.5 44.8 24.1" style="fill: #0c713a; opacity: .5;"/>
-  <polygon points="97.4 21 48.2 25.4 73.3 43.9 108.9 41 97.4 21" style="fill: #bf1e5a; opacity: .5;"/>
-  <polygon points="73.3 43.9 108.9 41 115.5 52.4 97.2 84.2 68.8 72.3 62.2 60.1 73.3 43.9" style="fill: #71c492; opacity: .5;"/>
-  <polygon points="47.5 58.5 62.2 60.1 68.8 72.3 29.3 97 21.2 82.9 47.5 58.5" style="fill: #342f90; opacity: .5;"/>
-  <polygon points="68.8 72.3 97.2 84.2 87.5 100.9 31.5 100.9 29.3 97 68.8 72.3" style="fill: #73bf44; opacity: .5;"/>
+  <polygon id="kalokai_sourtooth" points="31.5 3.9 87.5 3.9 97.4 21 48.2 25.4 44.8 24.1 29.8 7 31.5 3.9" style="fill: #72cddb;"/>
+  <polygon id="kalokai_nightsregret" points="29.8 7 3.6 52.4 21.2 82.9 47.5 58.5 44.8 24.1 29.8 7" style="fill: #3dbeb7;"/>
+  <polygon id="kalokai_hallow" points="44.8 24.1 48.2 25.4 73.3 43.9 62.2 60.1 47.5 58.5 44.8 24.1" style="fill: #0c713a;"/>
+  <polygon id="kalokai_sweethearth" points="97.4 21 48.2 25.4 73.3 43.9 108.9 41 97.4 21" style="fill: #bf1e5a;"/>
+  <polygon id="kalokai_camptau" points="73.3 43.9 108.9 41 115.5 52.4 97.2 84.2 68.8 72.3 62.2 60.1 73.3 43.9" style="fill: #71c492;"/>
+  <polygon id="kalokai_baccaeridge" points="47.5 58.5 62.2 60.1 68.8 72.3 29.3 97 21.2 82.9 47.5 58.5" style="fill: #342f90;"/>
+  <polygon id="kalokai_lostgreensward" points="68.8 72.3 97.2 84.2 87.5 100.9 31.5 100.9 29.3 97 68.8 72.3" style="fill: #73bf44;"/>
 </svg>

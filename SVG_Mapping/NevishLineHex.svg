@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="NevishLine" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="87.5 3.9 98.7 23.3 84.2 30.2 60.2 18.9 53.4 3.9 87.5 3.9" style="fill: #eef5e0; opacity: .5;"/>
-  <polygon points="84.2 30.2 98.7 23.3 115.5 52.4 105.2 70.3 76.5 53.2 73.4 42.7 84.2 30.2" style="fill: #d41d52; opacity: .5;"/>
-  <polygon points="60.2 18.9 57.5 40.8 73.4 42.7 84.2 30.2 60.2 18.9" style="fill: #13a64a; opacity: .5;"/>
-  <polygon points="60.2 18.9 53.4 3.9 31.5 3.9 8.1 44.6 44.7 47.9 57.5 40.8 60.2 18.9" style="fill: #7dbfe9; opacity: .5;"/>
-  <polygon points="8.1 44.6 3.6 52.4 23.1 86.3 61.6 71.5 61.6 69 44.7 47.9 8.1 44.6" style="fill: #f6861f; opacity: .5;"/>
-  <polygon points="61.6 71.5 84.6 100.9 31.5 100.9 23.1 86.3 61.6 71.5" style="fill: #ffd864; opacity: .5;"/>
-  <polygon points="84.6 100.9 87.5 100.9 105.2 70.3 76.5 53.2 61.6 69 61.6 71.5 84.6 100.9" style="fill: #2a338e; opacity: .5;"/>
-  <polygon points="73.4 42.7 57.5 40.8 44.7 47.9 61.6 69 76.5 53.2 73.4 42.7" style="fill: #e5c1dc; opacity: .5;"/>
+  <polygon id="nevishline_unruly" points="87.5 3.9 98.7 23.3 84.2 30.2 60.2 18.9 53.4 3.9 87.5 3.9" style="fill: #eef5e0;"/>
+  <polygon id="nevishline_mistleshrine" points="84.2 30.2 98.7 23.3 115.5 52.4 105.2 70.3 76.5 53.2 73.4 42.7 84.2 30.2" style="fill: #d41d52;"/>
+  <polygon id="nevishline_scryingbelt" points="60.2 18.9 57.5 40.8 73.4 42.7 84.2 30.2 60.2 18.9" style="fill: #13a64a;"/>
+  <polygon id="nevishline_blindingstones" points="60.2 18.9 53.4 3.9 31.5 3.9 8.1 44.6 44.7 47.9 57.5 40.8 60.2 18.9" style="fill: #7dbfe9;"/>
+  <polygon id="nevishline_blackcoatway" points="8.1 44.6 3.6 52.4 23.1 86.3 61.6 71.5 61.6 69 44.7 47.9 8.1 44.6" style="fill: #f6861f;"/>
+  <polygon id="nevishline_tombfather" points="61.6 71.5 84.6 100.9 31.5 100.9 23.1 86.3 61.6 71.5" style="fill: #ffd864;"/>
+  <polygon id="nevishline_griefmother" points="84.6 100.9 87.5 100.9 105.2 70.3 76.5 53.2 61.6 69 61.6 71.5 84.6 100.9" style="fill: #2a338e;"/>
+  <polygon id="nevishline_princefal" points="73.4 42.7 57.5 40.8 44.7 47.9 61.6 69 76.5 53.2 73.4 42.7" style="fill: #e5c1dc;"/>
 </svg>

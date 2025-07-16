@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="TheClahstra" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="31.5 3.9 49.3 3.9 59.5 39.9 43.5 42.6 20.3 23.4 31.5 3.9" style="fill: #935267; opacity: .5;"/>
-  <polygon points="20.3 23.4 3.6 52.4 14.6 71.5 42.6 59.2 43.5 42.6 20.3 23.4" style="fill: #3dbeb7; opacity: .5;"/>
-  <polygon points="49.3 3.9 87.5 3.9 93 13.4 64.5 42.2 59.5 39.9 49.3 3.9" style="fill: #c38276; opacity: .5;"/>
-  <polygon points="93 13.4 115.5 52.4 110.7 60.7 68.8 56.3 64.5 42.2 93 13.4" style="fill: #b0d361; opacity: .5;"/>
-  <polygon points="68.8 56.3 59.6 66.7 59.6 69.8 72.7 100.9 87.5 100.9 110.7 60.7 68.8 56.3" style="fill: #bf1e5a; opacity: .5;"/>
-  <polygon points="59.6 69.8 25 89.6 31.5 100.9 72.7 100.9 59.6 69.8" style="fill: #3a52a4; opacity: .5;"/>
-  <polygon points="14.6 71.5 25 89.6 59.6 69.8 59.6 66.7 42.6 59.2 14.6 71.5" style="fill: #d5eaf9; opacity: .5;"/>
-  <polygon points="43.5 42.6 59.5 39.9 64.5 42.2 68.8 56.3 59.6 66.7 42.6 59.2 43.5 42.6" style="fill: #95872a; opacity: .5;"/>
+  <polygon id="theclastra_thevault" points="31.5 3.9 49.3 3.9 59.5 39.9 43.5 42.6 20.3 23.4 31.5 3.9" style="fill: #935267;"/>
+  <polygon id="theclastra_bewailingfort" points="20.3 23.4 3.6 52.4 14.6 71.5 42.6 59.2 43.5 42.6 20.3 23.4" style="fill: #3dbeb7;"/>
+  <polygon id="theclastra_thirdchapter" points="49.3 3.9 87.5 3.9 93 13.4 64.5 42.2 59.5 39.9 49.3 3.9" style="fill: #c38276;"/>
+  <polygon id="theclastra_weephome" points="93 13.4 115.5 52.4 110.7 60.7 68.8 56.3 64.5 42.2 93 13.4" style="fill: #b0d361;"/>
+  <polygon id="theclastra_eastnarthex" points="68.8 56.3 59.6 66.7 59.6 69.8 72.7 100.9 87.5 100.9 110.7 60.7 68.8 56.3" style="fill: #bf1e5a;"/>
+  <polygon id="theclastra_watchfulnave" points="59.6 69.8 25 89.6 31.5 100.9 72.7 100.9 59.6 69.8" style="fill: #3a52a4;"/>
+  <polygon id="theclastra_transept" points="14.6 71.5 25 89.6 59.6 69.8 59.6 66.7 42.6 59.2 14.6 71.5" style="fill: #d5eaf9;"/>
+  <polygon id="theclastra_thetreasury" points="43.5 42.6 59.5 39.9 64.5 42.2 68.8 56.3 59.6 66.7 42.6 59.2 43.5 42.6" style="fill: #95872a;"/>
 </svg>

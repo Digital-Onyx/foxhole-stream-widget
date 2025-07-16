@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="ViperPit" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.1 104.9">
-  <polygon points="31.5 3.9 19.5 24.9 49.7 50.2 52.2 50.7 73 40.8 88.1 4.9 87.5 3.9 31.5 3.9" style="fill: #9b94c8; opacity: .5;"/>
-  <polygon points="49.7 50.2 37.2 67.8 11.9 67 3.6 52.4 19.5 24.9 49.7 50.2" style="fill: #b8e4f4; opacity: .5;"/>
-  <polygon points="37.2 67.8 45.2 70.8 56.8 69.1 57.1 67.3 52.2 50.7 49.7 50.2 37.2 67.8" style="fill: #3dbeb7; opacity: .5;"/>
-  <polygon points="11.9 67 37.2 67.8 45.2 70.8 43.9 100.9 31.5 100.9 11.9 67" style="fill: #2a338e; opacity: .5;"/>
-  <polygon points="45.2 70.8 56.8 69.1 72.2 100.9 43.9 100.9 45.2 70.8" style="fill: #73bf44; opacity: .5;"/>
-  <polygon points="56.8 69.1 57.1 67.3 74.2 58.7 98.6 81.7 87.5 100.9 72.2 100.9 56.8 69.1" style="fill: #bf1e5a; opacity: .5;"/>
-  <polygon points="52.2 50.7 73 40.8 74.2 58.7 57.1 67.3 52.2 50.7" style="fill: #662673; opacity: .5;"/>
-  <polygon points="73 40.8 88.1 4.9 115.5 52.4 98.6 81.7 74.2 58.7 73 40.8" style="fill: #73bf44; opacity: .5;"/>
+  <polygon id="viperpit_serenitysblight" points="31.5 3.9 19.5 24.9 49.7 50.2 52.2 50.7 73 40.8 88.1 4.9 87.5 3.9 31.5 3.9" style="fill: #9b94c8;"/>
+  <polygon id="viperpit_kirknell" points="49.7 50.2 37.2 67.8 11.9 67 3.6 52.4 19.5 24.9 49.7 50.2" style="fill: #b8e4f4;"/>
+  <polygon id="viperpit_fortviper" points="37.2 67.8 45.2 70.8 56.8 69.1 57.1 67.3 52.2 50.7 49.7 50.2 37.2 67.8" style="fill: #3dbeb7;"/>
+  <polygon id="viperpit_thefriars" points="11.9 67 37.2 67.8 45.2 70.8 43.9 100.9 31.5 100.9 11.9 67" style="fill: #2a338e;"/>
+  <polygon id="viperpit_blackthroat" points="45.2 70.8 56.8 69.1 72.2 100.9 43.9 100.9 45.2 70.8" style="fill: #62ff00ff;"/>
+  <polygon id="viperpit_moltowrth" points="56.8 69.1 57.1 67.3 74.2 58.7 98.6 81.7 87.5 100.9 72.2 100.9 56.8 69.1" style="fill: #bf1e5a;"/>
+  <polygon id="viperpit_fleckcrossing" points="52.2 50.7 73 40.8 74.2 58.7 57.1 67.3 52.2 50.7" style="fill: #662673;"/>
+  <polygon id="viperpit_earlcrowley" points="73 40.8 88.1 4.9 115.5 52.4 98.6 81.7 74.2 58.7 73 40.8" style="fill: #73bf44;"/>
 </svg>
